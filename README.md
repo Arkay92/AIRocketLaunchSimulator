@@ -1,4 +1,4 @@
-# RocketLaunchSimulator
+# AIRocketLaunchSimulator
 
 Simulate and analyze rocket launches with Python. This project models the ascent of a rocket, taking into account thrust, drag, gravity, and fuel consumption, and outputs the rocket's altitude, velocity, and mass over time.
 
